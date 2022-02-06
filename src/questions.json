@@ -1,0 +1,28 @@
+{
+    "questions": {
+        "1" :{
+    "category": "GCP",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What do containers recreate or virtualize?",
+    "correct_answer": "Operating systems",
+    "incorrect_answers": [
+    "Virtual machines",
+    "Hardware",
+    "Hypervisor"
+    ]
+    },   
+    "2" :{
+        "category": "GCP",
+    "type": "multiple",
+    "difficulty": "medium",
+    "question": "What does ‘compute power’ refer to?",
+    "correct_answer": "The speed at which a computer is able to process data.",
+    "incorrect_answers": [
+    "The storage capabilities of the computer’s hardware",
+    "The length of time during which a computer is able to store data.",
+    "The size of computer hardware."
+    ]
+    }   
+}
+}
